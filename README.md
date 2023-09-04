@@ -1,4 +1,5 @@
-# git clone https://github.com/sudo-self/tony-hawk.git
+# <a href="https://ps1.jessejesse.com">Play Now</a>
+## git clone https://github.com/sudo-self/tony-hawk.git
 ### Everything is here except the game because its 700mb<br>
 Game: https://www.dropbox.com/scl/fi/lq1ttqz4wsqwtkln1d7uu/tp.bin?rlkey=guulaj8haqge5hhmi52nqdbyk&dl=0  <br><br>
 download the game and add tb.bin to the root directory and your g2g<br>
