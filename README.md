@@ -1,8 +1,7 @@
-# tony-hawk
-## git clone https://github.com/sudo-self/tony-hawk.git
+# tony-hawk  git clone https://github.com/sudo-self/tony-hawk.git
 ### Everything is here except the game because its 700mb<br>
-### Game: https://www.dropbox.com/scl/fi/lq1ttqz4wsqwtkln1d7uu/tp.bin?rlkey=guulaj8haqge5hhmi52nqdbyk&dl=0
-### download the game and add tb.bin to the root directory and your g2g<br>
+Game: https://www.dropbox.com/scl/fi/lq1ttqz4wsqwtkln1d7uu/tp.bin?rlkey=guulaj8haqge5hhmi52nqdbyk&dl=0  <br>
+download the game and add tb.bin to the root directory and your g2g<br>
 
 Alternatively, you can host the gamefile online, if so then you would just change where the emulator looks to load from. It is currently set to root so you would just edit the index.html file and swap out the 'tp.bin' with the URL of your ps1 game.  gameURL = 'tp.bin' ----->  gameURL = 'yourGAMElocation'  <br>
 <img width="274" alt="Screenshot 2023-09-04 at 4 59 45 AM" src="https://github.com/sudo-self/tony-hawk/assets/119916323/f07c6e69-fb27-4bc3-8d33-922d46a06cde">
